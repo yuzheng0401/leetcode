@@ -43,6 +43,7 @@ public class Num70_ClimbingStairs {
     }
 
     public static void main(String[] args) {
-
+        Num70_ClimbingStairs num = new Num70_ClimbingStairs();
+        System.out.println(num.climbStairs(45));
     }
 }
