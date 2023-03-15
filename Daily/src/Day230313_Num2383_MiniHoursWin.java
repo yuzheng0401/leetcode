@@ -9,7 +9,7 @@
  * 返回击败全部 n 个对手需要训练的 最少 小时数目。
  * @date 2023/3/13 10:54 PM
  */
-public class Day23030313_Num2383_MiniHoursWin {
+public class Day230313_Num2383_MiniHoursWin {
 
     public int minNumberOfHours(int initialEnergy, int initialExperience, int[] energy, int[] experience) {
         int hours = 0, length = energy.length;
